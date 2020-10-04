@@ -1,3 +1,11 @@
+# facebook-messenger-clone
+
+by [Gabriel Kwong](https://github.com/gabrielkryss) referencing [this video](https://www.youtube.com/watch?v=KB7JEnfc7Dc&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=2)
+
+## Hosting URL
+
+https://facebook-messenger-clone-15e97.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
